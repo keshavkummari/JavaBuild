@@ -40,9 +40,9 @@
 
 
 	<scm>
-		<connection>scm:git:git@github.com:keshavkummari/eduJavaProject.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/eduJavaProject.git</developerConnection>
-		<url>git@github.com:keshavkummari/eduJavaProject.git</url>
+		<connection>scm:git:git@github.com:keshavkummari/JavaBuild.git</connection>
+		<developerConnection>scm:git:git@github.com:keshavkummari/JavaBuild.git</developerConnection>
+		<url>git@github.com:keshavkummari/JavaBuild.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
