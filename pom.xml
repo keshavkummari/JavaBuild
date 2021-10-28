@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>codewithck</artifactId>
+	<artifactId>codewithkesav</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>codewithck</name>
+	<name>codewithkesav</name>
 	<description>DevOps By CK</description>
 
 	<parent>
